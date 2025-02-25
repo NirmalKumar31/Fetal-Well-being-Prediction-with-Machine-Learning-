@@ -1,8 +1,6 @@
 # 🍼 Fetal Health Classification using XGBoost and BorutaSHAP 🚀
 
-## 👨‍💻 Authors
-
-**Nirmalkumaar T K**, Pratosh Karthikeyan, Jeevanandh R, Pranav Manikandan Sundaresan, Pranav A
+## 👨‍💻 Authors : **Nirmalkumaar T K**, Pratosh Karthikeyan, Jeevanandh R, Pranav Manikandan Sundaresan, Pranav A
 📅 Date: August 2023 - October 2023  
 📧 Contact: thirupallikrishnan.n@northeastern.edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/nirmalkumartk/) | [GitHub](https://github.com/NirmalKumar31)
@@ -102,8 +100,11 @@ To improve the model's interpretability and performance, we used **BorutaSHAP**,
 🧠 **Enhancing interpretability** using explainable AI techniques
 📱 **Developing a lightweight mobile application** for remote monitoring
 
+🔗 **[Full Research Paper - Machine Learning in Fetal Well-Being Prediction](https://www.ijaresm.com/uploaded_files/document_file/Pratosh_KarthikeyangS61.pdf)**
+🔗 **[Code File](https://github.com/NirmalKumar31/Fetal-Well-being-Prediction-with-Machine-Learning-/blob/4f4725852ce440fd1977307824df0fe8ea08bfdb/Fetal_Classification_Final.ipynb)**
+
 ## 📚 References
-🔗 **[Machine Learning in Fetal Well-Being Prediction](https://www.ijaresm.com)**
+
 📖 Abdel-Raouf, Heba; Elhoseny, Mohamed; Taha, Tarek (2020). "Fetal Health Classification Using XGBoost Algorithm."
 📖 Aygun, Ibrahim; Olmez, Tugba; et al. (2019). "Fetal Health Classification Using Machine Learning Algorithms: A Comparative Study."
 
