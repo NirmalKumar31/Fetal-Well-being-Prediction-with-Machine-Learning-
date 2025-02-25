@@ -5,13 +5,7 @@
 **Nirmalkumaar T K**, Pratosh Karthikeyan, Jeevanandh R, Pranav Manikandan Sundaresan, Pranav A
 📅 Date: August 2023 - October 2023  
 📧 Contact: thirupallikrishnan.n@northeastern.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
-
-### **Other Authors**
-- Pratosh Karthikeyan
-- Jeevanandh R
-- Pranav Manikandan Sundaresan
-- Pranav A
+🔗 [LinkedIn](https://www.linkedin.com/in/nirmalkumartk/) | [GitHub](https://github.com/NirmalKumar31)
 
 ## 🖥️ Tech Stack
 - 🐍 Python
